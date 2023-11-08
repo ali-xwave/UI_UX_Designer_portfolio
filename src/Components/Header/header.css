@@ -1,0 +1,26 @@
+.nav-margin {
+  margin-left: 15%;
+}
+ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: lighter;
+}
+@media (min-width: 150px) and (max-width: 576px) {
+  .nav-margin {
+    margin-left: 0;
+    gap: 50px;
+  }
+}
+@media (min-width: 577px) and (max-width: 768px) {
+  .nav-margin {
+    margin-left: 0;
+    gap: 50px;
+  }
+}
+@media (min-width: 769px) and (max-width: 992px) {
+  .nav-margin {
+    margin-left: 0;
+    gap: 50px;
+  }
+}

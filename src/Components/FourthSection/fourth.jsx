@@ -63,7 +63,7 @@ const Fourth = () => {
                       <img className="" src={item.twoimageUrl} alt="" />
                       <span>{item.textOne}</span>
                       <img className="" src={item.threeimageUrl} alt="" />
-                      <span>{item.textTwo}</span>
+                      <span>{item.textTwo}</span>gi
                     </div>
                   </>
                 )

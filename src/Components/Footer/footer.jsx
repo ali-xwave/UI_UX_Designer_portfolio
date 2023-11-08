@@ -5,7 +5,7 @@ const Footer = () => {
     <div>
       <div className="bg">
         <div className="container">
-          <div className="row pt-5 text-white">
+          <div className="row pt-5 text-white text-center">
             <div className="col-md-4 py-4">
               <img src={footerimg} alt="" />
               <p className="py-3">
